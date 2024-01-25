@@ -1,0 +1,7 @@
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\obj\Debug\lab sess 2.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\obj\Debug\lab sess 2.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\bin\Debug\lab sess 2.exe.config
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\bin\Debug\lab sess 2.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\bin\Debug\lab sess 2.pdb
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\obj\Debug\lab sess 2.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess 2\lab sess 2\obj\Debug\lab sess 2.pdb
