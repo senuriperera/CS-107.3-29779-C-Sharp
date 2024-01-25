@@ -1,0 +1,7 @@
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\bin\Debug\lab sess.exe.config
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\bin\Debug\lab sess.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\bin\Debug\lab sess.pdb
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\obj\Debug\lab sess.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\obj\Debug\lab sess.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\obj\Debug\lab sess.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab sess\lab sess\obj\Debug\lab sess.pdb
