@@ -1,0 +1,7 @@
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\obj\Debug\lab 1 q5.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\obj\Debug\lab 1 q5.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\bin\Debug\lab 1 q5.exe.config
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\bin\Debug\lab 1 q5.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\bin\Debug\lab 1 q5.pdb
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\obj\Debug\lab 1 q5.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q5\lab 1 q5\obj\Debug\lab 1 q5.pdb
