@@ -1,0 +1,7 @@
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\bin\Debug\lab 1 q6.exe.config
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\bin\Debug\lab 1 q6.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\bin\Debug\lab 1 q6.pdb
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\obj\Debug\lab 1 q6.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\obj\Debug\lab 1 q6.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\obj\Debug\lab 1 q6.exe
+C:\S\uni\year 1\semester 3\C#\lec 1\lab 1 q6\lab 1 q6\obj\Debug\lab 1 q6.pdb
