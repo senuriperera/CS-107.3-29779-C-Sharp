@@ -1,2 +1,2 @@
-# C-lab
+# C Sharp
 C# lab sessions questions
