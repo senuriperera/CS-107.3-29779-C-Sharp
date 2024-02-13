@@ -1,0 +1,7 @@
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\obj\Debug\lab 2 q4.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\obj\Debug\lab 2 q4.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\bin\Debug\lab 2 q4.exe.config
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\bin\Debug\lab 2 q4.exe
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\bin\Debug\lab 2 q4.pdb
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\obj\Debug\lab 2 q4.exe
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 2 q4\lab 2 q4\obj\Debug\lab 2 q4.pdb
