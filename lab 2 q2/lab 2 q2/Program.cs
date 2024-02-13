@@ -1,45 +1,27 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace lab_2_q2
+namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the account number: ");
-            int accountNumber = Convert.ToInt32(Console.ReadLine());
 
-            BankAccount account = new BankAccount(accountNumber);
 
-            Console.WriteLine("Enter the amount to be deposited: ");
-            double depositAmount = Convert.ToDouble(Console.ReadLine());
-
-            account.Deposit(depositAmount);
-
-            Console.WriteLine("Updated Balance: " + account.GetBalance());
+            BankAccount account = new BankAccount();
+            account.AccountNumber = 123456789;
+            Console.WriteLine($"Account Number: {account.AccountNumber}");
+            account.balance = 200;
+            Console.WriteLine("Account Balance: Rs." + account.balance);
+            Console.WriteLine("Enter deposit amount:");
+            double depoAmount = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"Updated Balance: Rs.{account.Deposit(depoAmount)}");
             Console.ReadLine();
-        }
-    }
 
-    class BankAccount
-    {
-        private int accountNumber;
-        private double balance;
-
-        public BankAccount(int accountNumber)
-        {
-            this.accountNumber = accountNumber;
-            this.balance = 0; 
-        }
-
-        public void Deposit(double amount)
-        {
-            balance += amount; 
-        }
-
-        public double GetBalance()
-        {
-            return balance;
         }
     }
 }
