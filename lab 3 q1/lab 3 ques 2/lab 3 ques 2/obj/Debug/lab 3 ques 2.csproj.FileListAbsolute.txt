@@ -1,0 +1,7 @@
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\bin\Debug\lab 3 ques 2.exe.config
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\bin\Debug\lab 3 ques 2.exe
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\bin\Debug\lab 3 ques 2.pdb
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\obj\Debug\lab 3 ques 2.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\obj\Debug\lab 3 ques 2.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\obj\Debug\lab 3 ques 2.exe
+C:\S\uni\year 1\semester 3\C#\lab\lab 3 q1\lab 3 ques 2\lab 3 ques 2\obj\Debug\lab 3 ques 2.pdb
