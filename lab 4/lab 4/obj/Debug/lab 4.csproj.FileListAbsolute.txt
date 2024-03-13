@@ -1,0 +1,10 @@
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\bin\Debug\lab 4.exe.config
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\bin\Debug\lab 4.exe
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\bin\Debug\lab 4.pdb
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab 4.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab_4.Form1.resources
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab_4.Properties.Resources.resources
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab 4.csproj.GenerateResource.cache
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab 4.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab 4.exe
+C:\S\uni\year 1\semester 3\C#\lec practicals\lab 4\lab 4\obj\Debug\lab 4.pdb
