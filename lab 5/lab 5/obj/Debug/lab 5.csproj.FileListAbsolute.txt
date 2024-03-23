@@ -1,0 +1,11 @@
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\bin\Debug\lab 5.exe.config
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\bin\Debug\lab 5.exe
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\bin\Debug\lab 5.pdb
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab 5.csproj.AssemblyReference.cache
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab_5.Form1.resources
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab_5.Properties.Resources.resources
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab 5.csproj.GenerateResource.cache
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab 5.csproj.CoreCompileInputs.cache
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab 5.exe
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab 5.pdb
+C:\S\uni\year 1\semester 3\C#\lab\CS-107.3-29779-C-Sharp\lab 5\lab 5\obj\Debug\lab_5.UserDetailsForm.resources
